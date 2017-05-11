@@ -7,6 +7,8 @@
  * @brief Contains the actual algorithm and calculations.
  */
  
+// hallo
+
 /* Definitions specific to this application. Also includes the Oscar main header file. */
 #include "template.h"
 #include <string.h>
